@@ -1,0 +1,17 @@
+/*
+ * Quick 'n' Pretty. I would like it.  - Edger W. Dijkstra
+ *
+ */
+
+/* Basics */
+body { background: #FBFBFB; }
+h2 { color:#203360; }
+a { color:#3B5998; cursor:pointer; outline-style:none; text-decoration: none; }
+a:hover { color:#3B5998; cursor:pointer; outline-style:none; text-decoration: underline; }
+
+/* Layout */
+.container { background-color:#FFFFFF; border-left:1px solid #AAAAAA; border-right:1px solid #AAAAAA; }
+.header { background: transparent url(me.jpg) no-repeat scroll 0 8px; border-bottom:1px dotted #AAAAAA; margin-bottom: 5em; }
+.header-content { margin-bottom: 0; }
+.header-content h2 { margin-bottom: 0; }
+.block { border-bottom:1px dotted #AAAAAA; padding-bottom: 1.5em; }
