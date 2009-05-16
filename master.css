@@ -15,3 +15,4 @@ a:hover { color:#3B5998; cursor:pointer; outline-style:none; text-decoration: un
 .header-content { margin-bottom: 0; }
 .header-content h2 { margin-bottom: 0; }
 .block { border-bottom:1px dotted #AAAAAA; padding-bottom: 1.5em; }
+.side-image { text-align: center; }
