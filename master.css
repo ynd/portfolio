@@ -11,8 +11,9 @@ a:hover { color:#3B5998; cursor:pointer; outline-style:none; text-decoration: un
 
 /* Layout */
 .container { background-color:#FFFFFF; border-left:1px solid #AAAAAA; border-right:1px solid #AAAAAA; }
-.header { background: transparent url(me.jpg) no-repeat scroll 0 8px; border-bottom:1px dotted #AAAAAA; margin-bottom: 5em; }
+.header { background: transparent url(me.jpg) no-repeat scroll 0 8px; border-bottom:1px dotted #AAAAAA; margin-bottom: 1em; }
 .header-content { margin-bottom: 0; }
 .header-content h2 { margin-bottom: 0; }
+.contact { margin-bottom: 4em; }
 .block { border-bottom:1px dotted #AAAAAA; padding-bottom: 1.5em; }
 .side-image { text-align: center; }
